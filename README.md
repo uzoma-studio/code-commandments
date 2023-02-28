@@ -5,3 +5,7 @@
 3. Name variables carefully so you and your collaborators have a clear idea of what they do or are for.
 4. Aim to write just the right amount of code needed to get the job done.
 5. Use comments to explain what your code does.
+
+---
+
+You can add to this list by submitting a PR
