@@ -1,4 +1,4 @@
-# &lt;uzoma.studio 10 code commandments />
+# &lt;uzoma.studio code commandments />
 
 1. Don't Repeat Yourself (DRY your code). Make sure you only use a block of code once; if you need it again then encapsulate it in a function or component.
 2. Create single-use components. If your component is doing more than one thing then you might want to refactor it.
@@ -8,4 +8,4 @@
 
 ---
 
-You can add to this list by submitting a PR
+`You can add to this list by submitting a PR`
